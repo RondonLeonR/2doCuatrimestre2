@@ -1,0 +1,10 @@
+D:\RondonLeon.Rodolfo.2A\Test2\bin\Debug\Test2.exe.config
+D:\RondonLeon.Rodolfo.2A\Test2\bin\Debug\Test2.exe
+D:\RondonLeon.Rodolfo.2A\Test2\bin\Debug\Test2.pdb
+D:\RondonLeon.Rodolfo.2A\Test2\bin\Debug\Entidades.dll
+D:\RondonLeon.Rodolfo.2A\Test2\bin\Debug\Entidades.pdb
+D:\RondonLeon.Rodolfo.2A\Test2\obj\Debug\Test.csprojAssemblyReference.cache
+D:\RondonLeon.Rodolfo.2A\Test2\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\RondonLeon.Rodolfo.2A\Test2\obj\Debug\Test.csproj.CopyComplete
+D:\RondonLeon.Rodolfo.2A\Test2\obj\Debug\Test2.exe
+D:\RondonLeon.Rodolfo.2A\Test2\obj\Debug\Test2.pdb
