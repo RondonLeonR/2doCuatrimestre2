@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\Entidades19\Entidades19\bin\Debug\netstandard2.0\Entidades19.deps.json
+C:\Users\user\source\repos\Entidades19\Entidades19\bin\Debug\netstandard2.0\Entidades19.dll
+C:\Users\user\source\repos\Entidades19\Entidades19\bin\Debug\netstandard2.0\Entidades19.pdb
+C:\Users\user\source\repos\Entidades19\Entidades19\obj\Debug\netstandard2.0\Entidades19.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Entidades19\Entidades19\obj\Debug\netstandard2.0\Entidades19.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Entidades19\Entidades19\obj\Debug\netstandard2.0\Entidades19.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Entidades19\Entidades19\obj\Debug\netstandard2.0\Entidades19.AssemblyInfo.cs
+C:\Users\user\source\repos\Entidades19\Entidades19\obj\Debug\netstandard2.0\Entidades19.dll
+C:\Users\user\source\repos\Entidades19\Entidades19\obj\Debug\netstandard2.0\Entidades19.pdb
