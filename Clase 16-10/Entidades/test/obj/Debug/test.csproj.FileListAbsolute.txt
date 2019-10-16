@@ -1,0 +1,10 @@
+D:\VisualStudio\Entidades\test\bin\Debug\test.exe.config
+D:\VisualStudio\Entidades\test\bin\Debug\test.exe
+D:\VisualStudio\Entidades\test\bin\Debug\test.pdb
+D:\VisualStudio\Entidades\test\bin\Debug\16-10.dll
+D:\VisualStudio\Entidades\test\bin\Debug\16-10.pdb
+D:\VisualStudio\Entidades\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\VisualStudio\Entidades\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Entidades\test\obj\Debug\test.csproj.CopyComplete
+D:\VisualStudio\Entidades\test\obj\Debug\test.exe
+D:\VisualStudio\Entidades\test\obj\Debug\test.pdb
