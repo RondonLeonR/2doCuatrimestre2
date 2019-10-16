@@ -1,0 +1,6 @@
+D:\VisualStudio\Entitades\Clase16-10\bin\Debug\Clase16-10.dll
+D:\VisualStudio\Entitades\Clase16-10\bin\Debug\Clase16-10.pdb
+D:\VisualStudio\Entitades\Clase16-10\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\VisualStudio\Entitades\Clase16-10\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Entitades\Clase16-10\obj\Debug\Clase16-10.dll
+D:\VisualStudio\Entitades\Clase16-10\obj\Debug\Clase16-10.pdb
