@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Entidades.Auto" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Auto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Avion" Collapsed="true">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAABBAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Avion.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Entidades.Carreta">
+    <Position X="9" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Carreta.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Entidades.Comercial">
+    <Position X="7.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Comercial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Deportivo">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAABQAEAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Deportivo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Entidades.Familiar">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAIAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Familiar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Gestion">
+    <Position X="12" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gestion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Privado" Collapsed="true">
+    <Position X="5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Privado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Vehiculo">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Vehiculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Entidades.IAFIP">
+    <Position X="12" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IAFIP.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

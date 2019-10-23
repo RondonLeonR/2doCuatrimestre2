@@ -1,0 +1,22 @@
+Una manera de reemplazar la herencia multiple son las interfaces.
+
+-Conjunto de metodos y propiedades(en c#) sin definicion(abstracto, no se le agrega esto).
+-Son publicos, pero no se le coloca el modificar "public".
+Una clase pueden implementar 'n' Interfaces, pero tiene que implemetar todo de las interfaces.
+No se lo implementa con el "override".
+[Modificador] interface [Nombre, Identificador]
+Nombre: IClase, IPersona, IVehiculo.
+
+public interface INombre
+{
+	void Metodo();  <=(abstract y public)
+}
+
+
+Implementacion:
+
+class MiClase : ClaseBase , INombre
+{
+}
+
+Tambien se pueden hacer Interfaces Genericas.
