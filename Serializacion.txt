@@ -1,0 +1,2 @@
+Clase publicas
+Constructor por default
