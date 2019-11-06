@@ -41,6 +41,7 @@
             this.lstVisor.Name = "lstVisor";
             this.lstVisor.Size = new System.Drawing.Size(526, 199);
             this.lstVisor.TabIndex = 0;
+            this.lstVisor.SelectedIndexChanged += new System.EventHandler(this.lstVisor_SelectedIndexChanged);
             // 
             // btnAgregar
             // 
@@ -89,10 +90,9 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.ListBox lstVisor;
-        private System.Windows.Forms.Button btnAgregar;
-        private System.Windows.Forms.Button btnModificar;
-        private System.Windows.Forms.Button btnEliminar;
+        protected System.Windows.Forms.ListBox lstVisor;
+        protected System.Windows.Forms.Button btnModificar;
+        protected System.Windows.Forms.Button btnEliminar;
+        public System.Windows.Forms.Button btnAgregar;
     }
 }
