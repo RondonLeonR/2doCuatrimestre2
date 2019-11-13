@@ -1,0 +1,13 @@
+D:\VisualStudio\Clase13-11\WindowsForms\bin\Debug\WindowsForms.exe.config
+D:\VisualStudio\Clase13-11\WindowsForms\bin\Debug\WindowsForms.exe
+D:\VisualStudio\Clase13-11\WindowsForms\bin\Debug\WindowsForms.pdb
+D:\VisualStudio\Clase13-11\WindowsForms\bin\Debug\Entidades.dll
+D:\VisualStudio\Clase13-11\WindowsForms\bin\Debug\Entidades.pdb
+D:\VisualStudio\Clase13-11\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+D:\VisualStudio\Clase13-11\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+D:\VisualStudio\Clase13-11\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+D:\VisualStudio\Clase13-11\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+D:\VisualStudio\Clase13-11\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Clase13-11\WindowsForms\obj\Debug\WindowsForms.csproj.CopyComplete
+D:\VisualStudio\Clase13-11\WindowsForms\obj\Debug\WindowsForms.exe
+D:\VisualStudio\Clase13-11\WindowsForms\obj\Debug\WindowsForms.pdb
